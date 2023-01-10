@@ -3,6 +3,7 @@
 .vs/
 .DS_Store
 .python-version
+.meta
 
 /[Ll]ibrary/
 /[Tt]emp/
